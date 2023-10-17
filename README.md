@@ -1,6 +1,6 @@
 # JSnail
 
-![](https://raw.githubusercontent.com/snailapp/main/logo.png)
+![](https://raw.githubusercontent.com/Snailapp/JSnail/main/logo.png)
 ### A utility class for parsing values from dynamic sources such as Maps.
 
 This package provides methods for safely extracting values from a source map or other dynamic
