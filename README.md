@@ -1,10 +1,11 @@
-A utility class for parsing values from dynamic sources such as Maps.
+# JSnail
+
+![](https://raw.githubusercontent.com/snailapp/main/logo.png)
+### A utility class for parsing values from dynamic sources such as Maps.
 
 This package provides methods for safely extracting values from a source map or other dynamic
 objects. It includes methods for reading various data types like strings, integers, doubles,
 booleans, lists, maps, and enumerations.
-
-Example:
 
 ```dart
 import 'package:flutter/foundation.dart';

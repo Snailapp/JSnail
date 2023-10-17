@@ -1,7 +1,7 @@
 name: jsnail
 description: A utility class for parsing values from dynamic sources such as Maps.
-version: 0.0.3
-homepage: https://github.com/Snailapp
+version: 0.0.4
+homepage: https://github.com/Snailapp/JSnail
 
 environment:
   sdk: '>=3.1.0 <4.0.0'
